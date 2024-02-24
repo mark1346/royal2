@@ -1,0 +1,20 @@
+HTTrack3.49-2 launched on Sun, 25 Feb 2024 03:27:27 at https://rebeccayrpark.wixsite.com/mysite
+(httrack https://rebeccayrpark.wixsite.com/mysite )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:27:36	Error: 	"Not Found" (404) at link https://rebeccayrpark.wixsite.com/ (from https://rebeccayrpark.wixsite.com/mysite)
+03:27:41	Error: 	"Not Found" (404) at link https://rebeccayrpark.wixsite.com/sitemap.xml (from https://rebeccayrpark.wixsite.com/mysite)
+03:27:41	Error: 	"Not Found" (404) at link https://rebeccayrpark.wixsite.com/feed.xml (from https://rebeccayrpark.wixsite.com/mysite)
+03:27:41	Error: 	"Not Found" (404) at link https://rebeccayrpark.wixsite.com/${n.uri} (from https://rebeccayrpark.wixsite.com/mysite)
+03:27:41	Error: 	"Not Found" (404) at link https://rebeccayrpark.wixsite.com/decodeURIComponent(e (from https://rebeccayrpark.wixsite.com/mysite)
+03:27:41	Error: 	"Not Found" (404) at link https://rebeccayrpark.wixsite.com/mysite/robots.txt (from https://rebeccayrpark.wixsite.com/mysite/info)
+03:27:41	Error: 	"Not Found" (404) at link https://rebeccayrpark.wixsite.com/mysite/feed.xml (from https://rebeccayrpark.wixsite.com/mysite/info)
+03:27:41	Error: 	"Not Found" (404) at link https://rebeccayrpark.wixsite.com/mysite/${n.uri} (from https://rebeccayrpark.wixsite.com/mysite/info)
+03:27:41	Error: 	"Not Found" (404) at link https://rebeccayrpark.wixsite.com/mysite/decodeURIComponent(e (from https://rebeccayrpark.wixsite.com/mysite/info)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 15 links scanned, 5 files written (2090816 bytes overall) [532574 bytes received at 38041 bytes/sec], 2117809 bytes transferred using HTTP compression in 13 files, ratio 23%
+(9 errors, 0 warnings, 0 messages)

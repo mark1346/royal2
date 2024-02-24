@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rebeccayrpark.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1708799247|xvk7oZyHuzmj
+rebeccayrpark.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+rebeccayrpark.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=uw2-pub-1_g
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01273375423cb0c697f766aa380313e8bd313b85c564ce25d3451b5caed2edadcbe4648dd4d5ee7f92fe7c017fb40cbb0d4155a1a4
+
